@@ -1,4 +1,4 @@
-public class code {
+public class Odd_Elements {
     public static void main(String[] args){
         String[] arr = {"Hindi" , "Odissi" , "Malyalam" , "Tamil" , "Assammese" , "Santhali" ,"Urdu" ,"Kannada" , "Marathi" , "Telugu" , "Gujarati" , "Punjabi" ,"Sindhi" , "Manipuri"};
         //Printing elements in reverse
