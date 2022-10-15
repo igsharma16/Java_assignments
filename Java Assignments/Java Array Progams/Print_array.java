@@ -1,6 +1,6 @@
 public class Print_array {
     public static void main(String[] args){
-        String[] arr = {"India" , "Australia" , "Japan" , "Argentina" , "Brazil" , "Madagascar"}
+        String[] arr = {"India" , "Australia" , "Japan" , "Argentina" , "Brazil" , "Madagascar"};
         //Printing elements
 
         for(String i : arr){
