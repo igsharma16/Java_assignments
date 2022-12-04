@@ -1,4 +1,4 @@
-public class Circle{
+public class Triangle{
     public static void main(String[] args){
         System.out.println("This is a Triangle program");
     for(int i = 1 ; i < 10 ; i++)        {
